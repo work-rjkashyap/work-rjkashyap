@@ -1,6 +1,5 @@
 # 💫 About Me:
-🗺️  I'm based in Durg, Chhattisgarh India<br>🌐  You can visit my portfolio https://rajeshwar-kashyap.github.io/<br>🚀  I'm currently working on Disney Hotstar Clone<br>🧠  I'm learning Typescript and Jenkins<br>🤝  I'm open to collaborating on some open-source projects like the Ott Platform
-
+🗺️  I'm based in Durg, Chhattisgarh India<br>🌐  You can also visit my [Portfolio](https://rajeshwar-kashyap.github.io) to see my work <br>🚀  I'm currently working on Disney Hotstar Clone<br>🧠  I'm learning Typescript and Jenkins<br>🤝  I'm open to collaborating on some open-source projects like the Ott Platform
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajeshwar-kashyap/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@work.rjkashyap05) 
